@@ -1,14 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+- Web page URL:https://gracecastelin.github.io/Grace-Impact-Portfolio/
+- This repository: https://github.com/gracecastelin/Grace-Impact-Portfolio/edit/main/README.md
 
 # About me
 My name is Grace Castelin, a MSPPM-D.C. Track Student and I am a bit new to the whole data-design field, and to be frank, I never expected myself to be doing this. However, I am a lover of policy and do see the value of marrying the two disciplines to help larger audiences understand basic phenomena occurring in policy and the real world. 
@@ -19,7 +14,7 @@ I want to challenge myself to be a true and effective storyteller with data! I h
 - Portray an effective narrative of a social issue I am passionate about, especially within economic equity for marginalized communities. 
 - Learn how to create unique graphs and charts.
 - Learn how to determine the best data visualization approach to a particular data  set of interest.  
-- -Learn how to critique different displays of data that may be misrepresentative/misleading to the topic at hand. 
+- Learn how to critique different displays of data that may be misrepresentative/misleading to the topic at hand. 
 
 # Portfolio
 
