@@ -27,7 +27,6 @@ With clear data that will be presented, employers should realize that the revers
 ![heatmap gpg](heatmap gpg.png)
 
 # Data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 US comparison
 
