@@ -20,7 +20,7 @@ With clear data that will be presented, employers should realize that the revers
 
 ![bubble chart](bubblechart gpg.png)
 
-![dual axes]("C:\Users\grace\OneDrive\Pictures\dual axes.png")
+![dual axes](dual axes.png)
 
 ![scatterplot gpg](scatterplot gpg.png)
 
