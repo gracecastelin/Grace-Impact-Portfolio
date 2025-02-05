@@ -18,13 +18,13 @@ With clear data that will be presented, employers should realize that the revers
 
 ## Initial sketches
 
-![bubble chart](bubblechart gpg)
+![bubble chart](bubblechart gpg.png)
 
-![dual axes](dual axes)
+![dual axes](dual axes.png)
 
-![scatterplot gpg](scatterplot gpg)
+![scatterplot gpg](scatterplot gpg.png)
 
-![heatmap gpg](heatmap gpg)
+![heatmap gpg](heatmap gpg.png)
 
 # Data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
