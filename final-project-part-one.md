@@ -4,21 +4,27 @@
 
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
 
  **DEI isn’t a problem for corporations, it’s the solution.**
 
+As recorded in January 2024, DEI efforts are being rolled back nationwide. Major retailers like Target and Walmart, along with many Fortune 500 companies, are scaling back DEI initiatives, refusing to release DEI reports, and shifting away from transparency. With such changes in the corporate world, it is crucial awareness, accountability, and action are executed. 
 
-Through these data visualizations, I hope to bring further awareness to corporations to help them hold up a looking glass to examine their own DEI practices. With this, they can be encouraged to be more proactive in these efforts.  In addition, as employers, they will be able to see positive benefits that stem from the implementation of DEI so they understand how it can benefit the company.
+Through the following narrative painted with data visualizations, I aim to encourage employers of corporations to hold up a looking glass to examine and evaluate their own DEI practices, or lack thereof. The main DEI effort that will be at focus is gender pay equity, as the presence or absence of a gender wage gap is a more feasible metric to retrieve on a large array of business sectors and industries. By comparing gender pay disparities to profitability in both the U.S. and the U.K. (to obtain regional/cross-cultural differences), I hope to highlight the impact of DEI on maximizing business success. Regional differences will also be analyzed as I will be using an OCED data comparing gender pay wage gaps worldwide, hopefully using metrics to analyze how the country with the lowest wage gap achieved its outcome.  Additionally, I will include data on employee perspectives of DEI, which will be linked to employee satisfaction and retention—metrics that directly affect a company's sustainability and long-term growth (an objective desired by most employers).
 
-This is esoecially relevant for the current times since DEI is being rolled back all across the country, as retail stores like Target and Walmart ar eno longer offering such omissions, along with many other Forbes 500 companies that are no longer ssentially refusing to provide DEI reports, aggregated. There may be a cross indsutry comparison to better scope this scene. 
+With clear data that will be presented, employers should realize that the reversal of DEI initiatives in their workplaces is simply doing more harm than good.
 
-This will be shown by 
+
+
+
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-![]
+![bubble chart](bubblechart gpg)
 
+![dual axes](dual axes)
+
+![scatterplot gpg](scatterplot gpg)
+
+![heatmap gpg](heatmap gpg)
 
 # Data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -52,9 +58,10 @@ URL:https://www.mckinsey.com/~/media/mckinsey/featured%20insights/diversity%20an
 
 # Method and medium
 
-The methodology of this project includes the gathering of data resources that are pubically avaialble which was a difficult process, as some DEI and pay equity information is not accessible to the public. In addition, it is important to consider that some of the dataset information could possibly be skewed such as pay equity reports from companies, as they may choose to self-report and therefore will npt disclose information that may portray their company to be inequitable or favor meant, even though the statistics may be true. Once the data sets are gather that capture the objective target of DEI initiatives and pay equity intiatives at companies, the data must be transferred into data visualizations in which I will be mainly using the Tableau medium with its interactive user-firendly functions, such as the Data Interpreter function that can help clean data if needed, or using the hidden feature to omit any columns that are not relevant to my story. There are also some datasets such as survey information that are sav. files that I will be responsible for converting into an excel file using R Studio commands in order to transfer them to excel and then transfer once again toe xcel. Once all my data visualziations are compiled, I will use SHorthand to effectively tell my story. 
+The methodology of this data project involves gathering publicly available data sources—a challenging process, as some DEI and pay equity information is not easily accessible or restricted to government access. Additionally, it’s important to consider that certain datasets (especially company-reported pay equity reports) may be skewed. Due to the nature of self-reporting, companies may choose to omit data that portray inequities or favoritism toward men in their pay scales, even if this is the truth of the data. 
 
-I will also try to join some datasets together using the JOIN command in pgadmin4, such as joining UK companies to profits when analyzing page wage gaps.
+Once the datasets capturing DEI and pay equity initiatives are collected, they will be transformed into interactive visual representations using Tableau. Tableau’s user-friendly features will be helpful toward narrowing the scope of the analysis, such as the Data Interpreter for cleaning data and the hidden column function for omitting irrelevant fields. Additionally, datasets stored as .sav files will require conversion to Excel using R Studio before they can be fully integrated. I will also use pgAdmin4’s JOIN command to merge datasets to conduct comparisons. For example, I will linking U.K. companies and their gender pay gaps to their profitability metrics which is apart of a separate data set. Once all data visuals are compiled, I will use Shorthand to tell my data-driven story.
+
 
 ## References
 See links in "Data" section
