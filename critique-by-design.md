@@ -47,6 +47,9 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 Synthesis: 
 
+-Will incorporate more labels and a legend for the graph
+-May try to consolidate information and remove intersecting line graph to avoid confusion/overwhelming amount of data.
+-More clear identification of y-label/variable that will be at focus. 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
