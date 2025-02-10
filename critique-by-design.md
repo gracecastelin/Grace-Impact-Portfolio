@@ -39,9 +39,12 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-| Is there anything you would change or do differently?         |       oo      |     ok        |
+| Is there anything you would change or do differently?         |   Create more clear labels for axes     |    Condense information by only including proportions and not         |
+|   Is there anything you find surprising or confusing?
+       |      Unclear on representation in changes in race/ethnicity--need legend       |    Surprised how you were able to convey sensible information through a visual graph.       |
 |          |             |             |
-|          |             |             |
+
+**Interviews conducted with students from the Master of Arts Management Program and Master of Entertainment Industry Management
 
 Synthesis: 
 
