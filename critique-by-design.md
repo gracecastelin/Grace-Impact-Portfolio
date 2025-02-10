@@ -39,8 +39,8 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-| Is there anything you would change or do differently?         |   Create more clear labels for axes     |    Condense information by only including proportions and not         |
-|   Is there anything you find surprising or confusing? |      Unclear on representation in changes in race/ethnicity--need legend       |    Surprised how you were able to convey sensible information through a visual graph.       |
+| Is there anything you would change or do differently?         |   Create more clear labels for axes     |    Condense information by only including proportions and not raw dollar amounts.       |
+|   Is there anything you find surprising or confusing? |      Unclear on representation in changes in race/ethnicity--need legend       |    Surprised how you were able to convey sensible information through a visual graph. Also liked how new layers were added on through each visualization sketch.    |
 |          |             |             |
 
 **Interviews conducted with students from the Master of Arts Management Program and Master of Entertainment Industry Management
