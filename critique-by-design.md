@@ -29,6 +29,7 @@ Below are a few simple rough sketches I formulated:
 ![image](https://github.com/user-attachments/assets/d3e1c039-b4a5-4a5b-b904-0721113dc01e)
 
 ![image](https://github.com/user-attachments/assets/1fb81a7a-fa2e-4e39-9be3-684e4e5edce1)
+
 ![image](https://github.com/user-attachments/assets/f64110ce-f76c-4660-b9e3-886ab93ebd30)
 
 ![image](https://github.com/user-attachments/assets/7731eaaf-44d5-4dd3-b9b5-07c012cdde23)
