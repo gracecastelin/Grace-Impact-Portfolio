@@ -8,13 +8,24 @@ _For each step below, you should document your progress as you move forward.  In
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
+Black Wealth Data Center. (2023). Number of Employer Firms, by Firm Receipt Amount, by Race/Ethnicity (Nationwide and Statewide, 2023). Retrieved from https://blackwealthdata.org/explore/business
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+![image](https://github.com/user-attachments/assets/0f4f4730-1f70-47b5-bd56-04fea4e7c859)
+
+I selected this data visualization because I am very interested in economic disparities in relation to access to financial opportunities among different racial groups. Based on the title alone, I expected these disparities to be demonstrated through the visualization. I was also interested in examining state-level differences compared to national trends, as I was curious about how these proportions might change regionally. Additionally, I wanted to identify which states might have the largest disparities to begin considering other variables that could contribute to these differences.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Overall, I believe the data visualization had good intentions in highlighting disparities among racial and ethnic groups regarding access to business loans. However, the presentation contained an overwhelming amount of information, with multiple navigation points (e.g., state differences, firm size differences), which made the main message somewhat convoluted.
+
+While the segmentation was unique, there should be a clearer hierarchy to guide the audience’s focus. The visualization’s biggest weakness, in my opinion, is the lack of clarity due to each racial group having a different x-axis scale. This makes it difficult to accurately determine which group received the most or least funding.
+
+To improve clarity, the primary visualization should feature a single bar graph comparing different racial groups within the same year. Additionally, including a proportional rate percentage—reflecting total loan dollars received relative to the number of employees in each group’s firms—would help account for differences in loans received given firm size, as well as population disparities. Since white Americans constitute the majority population, this adjustment would mitigate disproportionate effects and provide a more accurate comparison.
+
+Additionally, state-specific data can be included as supplementary information, perhaps in an appendix or as an optional interactive feature, but the main visualization should focus on delivering a clear, concise message.
 
 ## Step three: Sketch a solution
+![image](https://github.com/user-attachments/assets/d3e1c039-b4a5-4a5b-b904-0721113dc01e)
+
 
 ## Step four: Test the solution
 
