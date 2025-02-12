@@ -24,14 +24,22 @@ To improve clarity, the primary visualization should feature a single bar graph 
 Additionally, state-specific data can be included as supplementary information, perhaps in an appendix or as an optional interactive feature, but the main visualization should focus on delivering a clear, concise message.
 
 ## Step three: Sketch a solution
+Below are a few simple rough sketches I formulated:
+
 ![image](https://github.com/user-attachments/assets/d3e1c039-b4a5-4a5b-b904-0721113dc01e)
+
+![image](https://github.com/user-attachments/assets/1fb81a7a-fa2e-4e39-9be3-684e4e5edce1)
+![image](https://github.com/user-attachments/assets/f64110ce-f76c-4660-b9e3-886ab93ebd30)
+
+![image](https://github.com/user-attachments/assets/7731eaaf-44d5-4dd3-b9b5-07c012cdde23)
+
+
+
 
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+Interview Questions:
 
 - Can you tell me what you think this is?
 
@@ -39,31 +47,27 @@ Questions to ask (modify these for your own interviews):
 
 - Is there anything you find surprising or confusing?
 
-- Who do you think is the intended audience for this?
-
 - Is there anything you would change or do differently?
 
 Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
 | Is there anything you would change or do differently?         |   Create more clear labels for axes     |    Condense information by only including proportions and not raw dollar amounts.       |
 |   Is there anything you find surprising or confusing? |      Unclear on representation in changes in race/ethnicity--need legend       |    Surprised how you were able to convey sensible information through a visual graph. Also liked how new layers were added on through each visualization sketch.    |
-|          |             |             |
+| Can you describe to me what this is telling you?       |  It is showing the disparities in business opporutnities in America           |  I'm seeing the differences in treatment of different racial groups            |
 
 **Interviews conducted with students from the Master of Arts Management Program and Master of Entertainment Industry Management
 
 Synthesis: 
-
 -Will incorporate more labels and a legend for the graph
 -May try to consolidate information and remove intersecting line graph to avoid confusion/overwhelming amount of data.
 -More clear identification of y-label/variable that will be at focus. 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
+
+I decided to utilize Python via Google Co-Lab to create my data visualization. I first uploaded the dataset to a Generative AI platform to help me generate code. 
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
