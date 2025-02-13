@@ -68,13 +68,14 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 ## Step five: build the solution
 
-I decided to utilize Python via Google Co-Lab to create my data visualization. I first uploaded the dataset to a Generative AI platform to help me generate code. 
+I decided to utilize Python via Google Co-Lab to create my data visualization. I first uploaded the dataset to a Generative AI platform to help generate code. Initially, the data graph I worked with was misleading—it focused on firm receipts by race and ethnicity rather than actual loan amounts, even though the website suggested it would compare loans. After some exploration, I found relevant loan amount data and shifted focus to accurately compare loan amounts distributed to Black populations, their proportion in the loan market, and their percentage of the population. Throughout the process, I ran into multiple errors trying to upload datasets within Python, but eventually resolved these and successfully prepared the data for analysis. Later on, I located aggregated data on SBA and 504 Loans, which became the foundation for my visualization.
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+The final visualization compares loan amounts given to Black populations, their loan proportion within the market, and their percentage in the population. The markers on the graph represent individual observations of these loan distributions, further portraying the relationship between the variables. I used prompts like “create a dual-axis chart” and “highlight markers for clarity” to guide the Generative AI, which made it easier to iterate and refine the design. While I initially used Plotly for interactivity, technical issues led me to switch to a static visualization with Matplotlib, which helped to avoid rendering problems. Overall, this process was challenging but rewarding, as it helped me refine my ability to present complex data clearly and address potential economic disparities effectively.
+
+![image](https://github.com/user-attachments/assets/e2319b52-e495-4fa8-8b2b-918ded8e604b)
 
 ## References
-_List any references you used here._
+Data set retrieved from Black Wealth Data Center.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+Used Chat GPT and Python via Google Colab. Specific steps are outlined in step five. 
