@@ -72,7 +72,7 @@ I decided to utilize Python via Google Co-Lab to create my data visualization. I
 
 The final visualization compares loan amounts given to Black populations, their loan proportion within the market, and their percentage in the population. The markers on the graph represent individual observations of these loan distributions, further portraying the relationship between the variables. I used prompts like “create a dual-axis chart” and “highlight markers for clarity” to guide the Generative AI, which made it easier to iterate and refine the design. While I initially used Plotly for interactivity, technical issues led me to switch to a static visualization with Matplotlib, which helped to avoid rendering problems. Overall, this process was challenging but rewarding, as it helped me refine my ability to present complex data clearly and address potential economic disparities effectively.
 
-![image](https://github.com/user-attachments/assets/e2319b52-e495-4fa8-8b2b-918ded8e604b)
+<img width="688" alt="image" src="https://github.com/user-attachments/assets/b29b04f5-4fc5-4234-bb43-3608bb8b8085" />
 
 ## References
 Data set retrieved from Black Wealth Data Center.
