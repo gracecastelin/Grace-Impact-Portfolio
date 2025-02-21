@@ -51,7 +51,9 @@ See countries in which wage gap is the lowest (Luxembourg) as case study and the
 Mckinsey and Company
 URL:https://www.mckinsey.com/~/media/mckinsey/featured%20insights/diversity%20and%20inclusion/diversity%20wins%20how%20inclusion%20matters/diversity-wins-how-inclusion-matters-vf.pdf
   Found that they actually conducted a very similar approach by comparing inclusion with financial performance--used EBIT of companies--diversify this
-  
+
+
+ Economic Policy Institute- productivity-pay gap. https://www.epi.org/productivity-pay-gap/ 
 
 
 
