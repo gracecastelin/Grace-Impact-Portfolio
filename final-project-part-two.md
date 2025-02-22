@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-https://preview.shorthand.com/LJjU9AJfdx2f9kC5 
+[https://preview.shorthand.com/LJjU9AJfdx2f9kC5 ](https://carnegiemellon.shorthandstories.com/paving-the-road-to-gender-pay-equity/index.html)
 
 # User research 
 
