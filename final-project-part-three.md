@@ -1,19 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+https://carnegiemellon.shorthandstories.com/paving-the-road-to-gender-pay-equity/index.html
+
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Since Part II, I’ve added more data visualizations to better illustrate the pay-productivity gap. I also shared a link in Heinz group chats to crowdsource a word cloud on the first word that comes to mind when thinking about gender equity. Plus, I incorporated a dataset I was working on codifying, which helped me highlight the correlation between the presence of gender equity policies at companies and job satisfaction.
 
-Text here!
+I also updated my call-to-action section by adding a button that directly links to the Level Up Campaign site for the YWCA of Greater Pittsburgh. Additionally, I referenced other campaigns advocating for gender equity. Overall, I think the added data visualizations really strengthened the core message of the story.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+My audience for the final data story is local employers in Pittsburgh, with the goal of encouraging them to resist DEI rollbacks in their industries and instead implement stronger gender equity pay initiatives. To narrow my focus, I also considered insights from research on workplace equity trends such as McKinsey and Company's study to find the association with diversity at companies and their financial metrics (measured through EBIT) discussions on employer attitudes toward DEI efforts (collected through Pew Research studies). Additionally, I shared a link in Heinz group chats to crowdsource a word cloud on the first word that comes to mind when thinking about gender equity.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
@@ -21,16 +19,18 @@ Text here!
 Text here!
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+> **You should have already included detailed references on your Shorthand story**
+Inspired by following study:
+>  McKinsey & Company. (2020). Diversity wins: How inclusion matters. Retrieved from https://www.mckinsey.com/~/media/mckinsey/featured%20insights/diversity%20and%20inclusion/diversity%20wins%20how%20inclusion%20matters/diversity-wins-how-inclusion-matters-vf.pdf
 
-## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+## AI Acknlowedgements
+Chat GPT was utilized to generate code for the Job satisfaction data visualization made through Python in Google Co-Lab.
 
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+Overall, I wish I had been able to find a way to establish a clear relationship between gender pay equity and a company’s profitability. I spent a lot of time digging for this data, but unfortunately, I couldn’t find accessible sources within my resources or network. It was a frustrating gap, as I believe this connection would have been a powerful addition to my story.
 
-Text here!
+I was also disappointed to see that some organizations, like Equal Pay Today, no longer have active websites—possibly a reflection of the growing pushback against DEI initiatives. Given the current climate, I don’t see this situation improving anytime soon, which makes it even more critical to continue advocating for equity and inclusion. Hopefully, this project can contribute to spreading awareness about the importance of protecting DEI efforts, especially in research and data accessibility.
+
 
 
